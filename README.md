@@ -62,7 +62,8 @@
 
 | Time | Role | Organization |
 |------|------|--------------|
-| 2025.02 – 2025.08 | Open Source Intern · DeepSeek-OCR Case Dev | 🏛️ ISAS, Chinese Academy of Sciences |
+| 2021.09 – 2025.06 | Undergraduate Student · Info Mgmt & Info Systems | 🎓 Guangdong Univ. of Tech |
+| 2025.02 – 2025.08 | Open Source Intern · DeepSeek-OCR Case Dev | 🏛️ ISAS, CAS |
 | 2025.11 – Present | Research Assistant · Embodied AI | 🎓 CUHK(SZ) |
 | 2024 – 2025 | Research Collaborator · Urban Vision | 🎓 HKUST(GZ) |
 
@@ -73,27 +74,17 @@
 - 🥇 **Ministry of Education – Huawei "Smart Base" Scholarship** (Top 0.05%)
 - 🏅 **National First Prize**, National College Students Statistical Modeling Competition
 - 🏅 **National Second Prize**, National College Students Mathematical Modeling Competition
-- 📜 **3 Software Copyrights** (Weather Prediction · Image Processing · Air Quality Assessment)
+- 📜 **6 Software Copyrights** (Weather Prediction · Image Processing · Air Quality Assessment · Clustering Analysis · [before 2025])
+- 🏅 **Huawei Student Developer (HSD) Ambassador** · Huawei Campus Developer Alliance
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvieWang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alvie's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvieWang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlvieWang&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
 ## 🔥 Currently Working On
 
 - 🧠 **SVLL** — Staged VLLM for Embodied Task Planning (ECCV 2026 ⏳)
-- 🏙️ **BuildingView** — Urban building exterior database with MLLM (code releasing soon!)
+- 🏙️ **BuildingView** — Urban building exterior database with MLLM ([Code](https://github.com/Jasper0122/BuildingView))
 - 🤖 **DeepSeek-OCR** — Document image OCR & structured parsing (MindSpore)
 - 📝 Paper reading notes: [paper-notes](https://github.com/AlvieWang/paper-notes) (coming soon)
 
@@ -113,7 +104,7 @@
 <br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=3" alt="Recently Played"/>
 <br><br>
-<em>(Enable by replacing YOUR_SPOTIFY_USER_ID with your Spotify user ID)</em>
+<em>Current vibe: Dream Is Possible 🎹</em>
 </details>
 
 ---
