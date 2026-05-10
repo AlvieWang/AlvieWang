@@ -1,0 +1,21 @@
+name: Daily Green ✅
+on:
+  schedule:
+    - cron: "0 0 * * *"   # UTC 0:00 = 北京/深圳 8:00
+  workflow_dispatch:
+
+jobs:
+  green:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update timestamp
+        run: |
+          echo "[${GITHUB_SHA:0:7}] $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S CST')" >> .green
+          git config user.name "AlvieBot"
+          git config user.email "hrwang1001@outlook.com"
+          git add .green
+          git commit -m "chore: keep green 🌱 [skip ci]" || echo "nothing to commit"
+          git push
