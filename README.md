@@ -7,18 +7,18 @@
 <p align="center">
   <a href="mailto:hrwang1001@outlook.com"><img src="https://img.shields.io/badge/Email-hrwang1001%40outlook.com-blue?style=flat&logo=gmail" alt="Email"/></a>
   <a href="https://github.com/AlvieWang"><img src="https://img.shields.io/github/followers/AlvieWang?label=Followers&style=social" alt="Followers"/></a>
-  <a href="https://scholar.google.com/citations?user=AlvieWang"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <img src="https://komarev.com/ghpvc/?username=AlvieWang&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🧑‍🎓 About Me
+## 👤 About Me
 
 - 🎓 **MPhil Student** @ [CUHK(Shenzhen)](https://www.cuhk.edu.cn/) · AI Institute · Advisor: [Prof. Zhizheng Wu](https://sai.cuhk.edu.cn/teacher/106)
 - 🔬 **Research Interests**: Multimodal LLM · Embodied AI · Vision-Language Task Planning · Preference Alignment (DPO)
 - 📍 Based in **Shenzhen, China**
-- 💡 "A cat who codes, dreams, and occasionally does math."
+- 💡 *"A cat who codes, dreams, and occasionally does math."*
 
 ---
 
@@ -31,7 +31,7 @@
 | 📤 *Under Review* | A Transfer Learning-Based Evolutionary Algorithm with LLM-designed Operators for Multi-objective VRP | IJCIAP |
 | ✅ *Published* | Constrained Single-Objective Optimization Model for Vegetable Auto Pricing & Replenishment | CIS 2023 |
 
-> 📄 See all papers on [Google Scholar](https://scholar.google.com/citations?user=AlvieWang) | [arXiv](https://arxiv.org/search/?searchtype=author&query=Hongrong+Wang)
+> 📄 See all papers on [Google Scholar](https://scholar.google.com/) | [arXiv](https://arxiv.org/)
 
 ---
 
@@ -95,7 +95,7 @@
 - 🧠 **SVLL** — Staged VLLM for Embodied Task Planning (ECCV 2026 ⏳)
 - 🏙️ **BuildingView** — Urban building exterior database with MLLM (code releasing soon!)
 - 🤖 **DeepSeek-OCR** — Document image OCR & structured parsing (MindSpore)
-- 📝 Paper reading notes: [*awesome-paper-notes*](https://github.com/AlvieWang) (coming soon)
+- 📝 Paper reading notes: [paper-notes](https://github.com/AlvieWang/paper-notes) (coming soon)
 
 ---
 
@@ -118,4 +118,4 @@
 
 ---
 
-<em>📝 Last auto-updated: 2026-05-10</em>
+<em>📝 Last updated: 2026-05-10</em>
