@@ -15,7 +15,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 **MPhil Student** @ [CUHK(Shenzhen)](https://www.cuhk.edu.cn/) · AI Institute · Advisor: [Prof. Zhiwu Hong](https://scholar.google.com/citations?user=AlvieWang)
+- 🎓 **MPhil Student** @ [CUHK(Shenzhen)](https://www.cuhk.edu.cn/) · AI Institute · Advisor: [Prof. Zhizheng Wu](https://sai.cuhk.edu.cn/teacher/106)(https://scholar.google.com/citations?user=AlvieWang)
 - 🔬 **Research Interests**: Multimodal LLM · Embodied AI · Vision-Language Task Planning · Preference Alignment (DPO)
 - 📍 Based in **Shenzhen, China**
 - 💡 "A cat who codes, dreams, and occasionally does math."
